@@ -20,4 +20,5 @@ print "If I add %d, %d, and %d I get %d." % (
 
 # %s => format character for strings
 # %d => format character for integers
-# %r => format any character
+# %r => format any character (use for debugging as it displays the raw data of
+#       the variable, but use others for displaying variables to users)
