@@ -1,0 +1,6 @@
+Hello!
+I'm a liney line.
+I'm the last line :-(
+'Hello!'
+"I'm a liney line."
+"I'm the last line :-("
